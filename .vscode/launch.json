@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Interpolacioncuadraticadenewton",
+            "request": "launch",
+            "mainClass": "Interpolacioncuadraticadenewton",
+            "projectName": "Calculadora_IS-1311_cd706783"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "Calculadora_IS-1311_cd706783"
+        },
+        {
+            "type": "java",
+            "name": "PruebaExp4j",
+            "request": "launch",
+            "mainClass": "PruebaExp4j",
+            "projectName": "Calculadora_IS-1311_cd706783"
+        },
+        {
+            "type": "java",
+            "name": "Interpolacion",
+            "request": "launch",
+            "mainClass": "Interpolacion",
+            "projectName": "Calculadora_IS-1311_cd706783"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
