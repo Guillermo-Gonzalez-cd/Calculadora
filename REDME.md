@@ -1,6 +1,14 @@
-# Calculadora de Métodos Numéricos
+# Calculadora de metodos numericos
 
 Proyecto desarrollado en Java para la asignatura de Métodos Numéricos.
+
+# Grupo
+
+1. Alisson Lizbeth Jalinas Martinez.
+2. Andrea Lisseth Suazo Gutiérrez.
+3. Erling Guillermo Saavedra González.
+
+---
 
 ## Métodos implementados
 
